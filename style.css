@@ -1,0 +1,12 @@
+#input {
+    background-color:chartreuse;
+}
+
+select {
+    background-color:aliceblue;
+    color:gray;
+}
+
+textarea {
+    background-color: wheat;
+}
